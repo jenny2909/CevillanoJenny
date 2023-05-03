@@ -1,11 +1,12 @@
-<div id="eys-footer">
+</div>
+<div id="eys-footer" style='border:1px blue solid; background-color:gray; margin:10px;'>
     <div > 
-	          <div >
+	          <div style="float:left; width:25%; position:relative; text-align:left;">
                     <ul style="margin:0; padding:0;" class="icons">
                             <li><a href="mailto:educaysoft%40gmail.com" class="icon  fa-envelope" title="Email"><span class="label">Capacitación</span></a></li>
                             <li><a href="https://twitter.com/home?lang=es" class="icon  fa-twitter" target="_blank" title="Twitter"><span class="label">Asesoria técnica</span></a></li>
                             <li><a href="https://www.facebook.com/stalin.francis.7/" class="icon  fa-facebook" target="_blank" title="Facebook"><span class="label">Investigación</span></a></li>
-				                    <li><a href="" class="icon  fa-linkedin" target="_blank"  title="LinkedIn"><span class="label">Desarrollo Web</span></a></li>
+	                    <li><a href="" class="icon  fa-linkedin" target="_blank"  title="LinkedIn"><span class="label">Desarrollo Web</span></a></li>
                     </ul>
             </div>
             <div  style="float:left; width:25%; position:relative; text-align:left;">
@@ -21,7 +22,7 @@
 
             <div  style="float:left; width:25%; position:relative; text-align:left;">
 
-		            		    <ul style="margin:0; padding:0;" class="copyright">
+            		    <ul style="margin:0; padding:0;" class="copyright">
                             <li><a href="http://educaysoft.org/educaysoft/index.php">EDUCAYSOFT</a></li>
                             <li>&copy; Francis Quinde Stalin Adalberto--</li>
                             <li>Design: <a href="//html5up.net">HTML5 UP</a></li>
@@ -31,7 +32,6 @@
 
 </div> 
 
-</div>
         <!-- Scripts -->
             <script src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/assets/src/prettify.js" >   </script>
 
